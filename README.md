@@ -32,6 +32,18 @@ Users should be able to:
 
 ### Screenshot
 
+[url=https://postimg.cc/q6cmh3WC][img]https://i.postimg.cc/q6cmh3WC/bgdark-Home1.png[/img][/url]
+
+[url=https://postimg.cc/TyyCjSZx][img]https://i.postimg.cc/TyyCjSZx/bg-Light-Home2.png[/img][/url]
+
+[url=https://postimg.cc/Xp31MsyK][img]https://i.postimg.cc/Xp31MsyK/mobile-Dark.png[/img][/url]
+
+[url=https://postimg.cc/9rp8cyG6][img]https://i.postimg.cc/9rp8cyG6/mobile-Light.png[/img][/url]
+
+[url=https://postimg.cc/HrkSnjzV][img]https://i.postimg.cc/HrkSnjzV/single-Page-Dark.png[/img][/url]
+
+[url=https://postimg.cc/0zXVwxXZ][img]https://i.postimg.cc/0zXVwxXZ/single-Page-Light.png[/img][/url]
+
 ### Links
 
 - Solution URL / Github URL: [Github](https://github.com/kayode-ik/rest-countryapi2)
