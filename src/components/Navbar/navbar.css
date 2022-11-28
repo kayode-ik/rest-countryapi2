@@ -1,0 +1,24 @@
+.navbar__container{
+    width: 100%;
+    height: 8vh;
+    /* background: white; */
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 5%), 0 6px 20px 0 rgb(0 0 0 / 7%);
+    overflow: hidden;
+}
+.navbar__content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    margin-top: 15px;
+}
+.navbar__content h2{
+    margin-left: 40px;
+}
+.darkmode{
+    margin-right: 40px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    cursor: pointer;
+}

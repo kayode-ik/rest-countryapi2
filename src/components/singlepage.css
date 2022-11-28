@@ -1,0 +1,96 @@
+.customCard2{
+    margin-top: 60px;
+    margin-left: 60px;
+    padding: 10px;
+}
+
+.cardContainer{
+    margin-bottom: 50px;
+    padding: 2px 16px;
+}
+a {
+    text-decoration: none !important;
+    color: black;
+} 
+.css-1ri6ub7-MuiPaper-root-MuiCard-root {
+ background: none !important;
+}
+.cardContent2 {
+    color: none !important;
+}
+.card2 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    height: 390px;
+    width: 570px;
+  }
+  
+  .card2:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  .img2 {
+    padding: 10px;
+  }
+  .img2 img{
+    width: 550px;
+    height: 370px;
+  }
+  .content2 {
+    padding: 2px 16px;
+    /* margin-right: 25%; */
+    line-height: 2.5;
+  }
+/* .title2 h2{
+    text-transform: capitalize;
+  } */
+  .carditem2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .sides {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 80px;
+  }
+  .borderCountries {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  p{
+    font-size: 13px;
+  }
+  .borderButton{
+    display: flex;
+    gap: 20px;
+    margin-left: 150px;
+  }
+  .btnCard{
+    padding: px;
+    width: 80px;
+    /* align-items: center; */
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+    transition: 0.3s;
+    cursor: pointer;
+}
+.backButton {
+    margin-left: 80px;
+    margin-top: 10vh;
+    width: 120px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+    transition: 0.3s;
+    padding: 10px;
+    border-radius: 10px;
+}
+.btnBackk {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: space-evenly;
+    line-height: 5px;
+    cursor: pointer;
+}
