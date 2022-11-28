@@ -47,7 +47,7 @@ Users should be able to:
 ### Links
 
 - Solution URL / Github URL: [Github](https://github.com/kayode-ik/rest-countryapi2)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://rest-countryapi2.vercel.app/)
 
 
 ## My process
