@@ -40,19 +40,28 @@ function CountryCard({ query, filterQuery }) {
   console.log(countryData , 'countryData')
   function search(countryData) {
     return countryData.filter((row) => {
-      if (row.region === filterQuery) {
+      // console.log(row, 'row')
+      console.log(row.region , 'row.region ')
+      console.log(filterQuery , 'filterQuery ')
+
+      if (row.region.toLowerCase() === filterQuery) {
         return f.some((column) => {
+          console.log(row[column] , 'row[column]')
           return (
-            row[column].toString().toLowerCase().indexOf(query.toLowerCase()) > -1
+            row[column]?.toString()?.toLowerCase()?.indexOf(filterQuery)
           );
         });
       } else if (filterQuery == "All") {
         return f.some((column) => {
+          console.log(column, 'column 56')
           return (
             row[column]?.toString()?.toLowerCase()?.indexOf(query) > -1
+            // column
           );
         });
       }
+
+      
     });
   }
 

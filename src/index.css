@@ -23,3 +23,10 @@ code {
   background: red;
   color: white;
 }
+
+@media (max-width: 414px) { 
+  .loader p{
+    font-size: 12px;
+    margin-top: 30px;
+  }
+}

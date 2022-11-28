@@ -22,3 +22,12 @@
     gap: 5px;
     cursor: pointer;
 }
+
+@media (max-width: 414px) { 
+    .navbar__content{
+     font-size: 12px;
+    }
+    .navbar__content h2{
+        margin-left: 10px;
+    }
+}

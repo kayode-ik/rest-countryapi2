@@ -34,3 +34,25 @@ input[type=text] {
 *:focus {
     outline: none;
 }
+
+/* .MuiBox-root css-ece9u5 {
+  background: white;
+  color: white;
+} */
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (max-width: 787px) { 
+.search__container {
+  display: block;
+}
+.css-ece9u5 {
+  min-width: 120px;
+  margin-top: 30px;
+}
+}
+@media (max-width: 414px) { 
+  .search__container {
+   margin-left: 30px !important;
+  }
+
+  }
